@@ -40,7 +40,7 @@
 <p align="center">
 
 
-[<img src="https://pbs.twimg.com/profile_images/1646938847576739841/vqw4Nmfx_400x400.jpg"
+[<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png"
 width="55px">](https://developer.android.com/studio)
 [<img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" width="55px">](https://firebase.google.com/)
 [<img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="55px">](https://nodejs.org/)
